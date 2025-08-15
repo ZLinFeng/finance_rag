@@ -1,0 +1,6 @@
+backend/**/.venv
+backend/python/db
+backend/python/__pycache__
+
+**/.DS_Store
+frontend/**/node_modules

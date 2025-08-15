@@ -1,0 +1,6 @@
+[server]
+port = 8000
+app_name = "Finance Rag"
+
+[local_milvus]
+path = "db"
